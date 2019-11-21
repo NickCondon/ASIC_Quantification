@@ -21,7 +21,22 @@ The Bio-Formats opener window will pop-up for each image file unless you change 
 
 Now the importer window won’t open for this file-type. To restore this, simply untick ‘Windowless”
 
-## Installing and Running the scripts
-The easiest way to install these scripts is to download this entire Git and place it within the Plugins folder of FIJI. After a re-start you should see a new Plugins Menu called "ASIC QuantificationD" which will contain the 3 main macros. Alternatively you can download the Git and drag & drop the .ijm files onto the main FIJI window and select Run.
+## Installing and Running the script
+The easiest way to install these scripts is to download this entire Git and place it within the Plugins folder of FIJI. After a re-start you should see a new Plugins Menu called "ASIC Quantification" which will contain the 3 main macros. Alternatively you can download the Git and drag & drop the .ijm files onto the main FIJI window and select Run.
 
+### ASIC_Quantification.ijm
+1. Run the script by either navigating to Plugins > ASIC_Quantification > ASIC_Quantification (if installed) or by dragging and dropping the ASIC_Quantification.ijm file onto the main FIJI window and selecting Run.
 
+2. Read the acknowledgements window and select "OK"
+<img src = "https://github.com/NickCondon/ASIC_Quantification/blob/master/Screenshots/AQ_Splash.png" width = "803" height = "604">
+<br><br>
+3. Read the directory warning to take note of your file extension
+<img src = "https://github.com/NickCondon/ASIC_Quantification/blob/master/Screenshots/AQ_DirectoryWarning.png" width = "453" height = "169">
+<br><br>
+4. Navigate to your input directory of choice that contains your image files. (note sometimes FJIJ cannot display files within a directory, but the macro will still run provided there is image files within the directory).
+<img src = "https://github.com/NickCondon/ASIC_Quantification/blob/master/Screenshots/AQ_InputDirectory.png" width = "707" height = "405">
+<br><br>
+5. Next the parameters dialog will open. Confirm your file extension type in the text field. Select whether you wish to have single summary values all nuclei per image (unchecked) or all individual nuclei output values listed (checked). Select either batch mode (runs in background; faster) is on or off.
+<img src = "https://github.com/NickCondon/ASIC_Quantification/blob/master/Screenshots/AQ_Parameters.png" width = "288" height = "209">
+<br><br>
+6. ...
