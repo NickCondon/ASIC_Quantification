@@ -30,13 +30,29 @@ The easiest way to install these scripts is to download this entire Git and plac
 2. Read the acknowledgements window and select "OK"
 <img src = "https://github.com/NickCondon/ASIC_Quantification/blob/master/Screenshots/AQ_Splash.png" width = "803" height = "604">
 <br><br>
+
 3. Read the directory warning to take note of your file extension
 <img src = "https://github.com/NickCondon/ASIC_Quantification/blob/master/Screenshots/AQ_DirectoryWarning.png" width = "453" height = "169">
 <br><br>
+
 4. Navigate to your input directory of choice that contains your image files. (note sometimes FJIJ cannot display files within a directory, but the macro will still run provided there is image files within the directory).
 <img src = "https://github.com/NickCondon/ASIC_Quantification/blob/master/Screenshots/AQ_InputDirectory.png" width = "707" height = "405">
 <br><br>
+
 5. Next the parameters dialog will open. Confirm your file extension type in the text field. Select whether you wish to have single summary values all nuclei per image (unchecked) or all individual nuclei output values listed (checked). Select either batch mode (runs in background; faster) is on or off.
 <img src = "https://github.com/NickCondon/ASIC_Quantification/blob/master/Screenshots/AQ_Parameters.png" width = "288" height = "209">
 <br><br>
-6. ...
+
+6. Next the macro will run through the images opening them one by one. Upon completion the exit message will display.
+<img src = "https://github.com/NickCondon/ASIC_Quantification/blob/master/Screenshots/AQ_BatchComplete.png" width = "310" height = "100">
+<br><br>
+
+7. Confirm outputs have saved within the output directory.
+<img src = "https://github.com/NickCondon/ASIC_Quantification/blob/master/Screenshots/AQ_OutputDirectory.png" width = "738" height = "451">
+<br><br>
+
+8.  Collect your data from the output .xls file (either Unique or Summarised files) for further statistical analysis.
+<img src = "https://github.com/NickCondon/ASIC_Quantification/blob/master/Screenshots/AQ_Unique.png" width = "1184" height = "458">
+<br><br>
+<img src = "https://github.com/NickCondon/ASIC_Quantification/blob/master/Screenshots/AQ_non-Unique.png" width = "885" height = "135">
+<br><br>
