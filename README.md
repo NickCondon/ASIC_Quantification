@@ -59,4 +59,4 @@ Note: Unique Mode gives you the Nuclei# for which that measurement was collected
 <br><br>
 <img src = "https://github.com/NickCondon/ASIC_Quantification/blob/master/Screenshots/AQ_non-Unique.png" width = "885" height = "135">
 <br><br>
-Note: Summary mode will provide the mean intensity calculated from 
+Note: Summary mode will provide the mean intensity calculated from each nuclei measured. 
