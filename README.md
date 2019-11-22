@@ -53,6 +53,10 @@ The easiest way to install these scripts is to download this entire Git and plac
 
 8.  Collect your data from the output .xls file (either Unique or Summarised files) for further statistical analysis.
 <img src = "https://github.com/NickCondon/ASIC_Quantification/blob/master/Screenshots/AQ_Unique.png" width = "1184" height = "458">
+
+Note: Unique Mode gives you the Nuclei# for which that measurement was collected.
+
 <br><br>
 <img src = "https://github.com/NickCondon/ASIC_Quantification/blob/master/Screenshots/AQ_non-Unique.png" width = "885" height = "135">
 <br><br>
+Note: Summary mode will provide the mean intensity calculated from 
